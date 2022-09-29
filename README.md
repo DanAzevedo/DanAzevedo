@@ -11,5 +11,7 @@
 - ⚡ Fun fact: ...
 
 <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?DanAzevedo=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/DanAzevedo">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=compact&langs_count-168theme-dracula"/> 
 </div>
