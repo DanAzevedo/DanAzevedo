@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel! 👋
 
 
-- 🔭 Hoje trabalho com Visão Computacional em Python utilizando o OpenCV, Tesseract e outras. (Estágio)
+- 🔭 Today I work with Computer Vision in Python using OpenCV, Tesseract and others. (Internship) 🖥️
 <div>
   <a href="https://github.com/DanAzevedo">
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
