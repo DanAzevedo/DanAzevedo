@@ -2,7 +2,7 @@
 
 
 - 🔭 Today I work with RPA in Python using Selenium, Computer Vision with OpenCV, Tesseract and others. (Internship) 🖥️
-- 🔭 No/Low code Flutter Flow 🖥️
+
 <div>
   <a href="https://github.com/DanAzevedo">
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
