@@ -3,6 +3,8 @@
 
 - 🔭 Today I work with RPA in Python using Selenium, Django, Flask, etc. (Internship) 🖥️
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div>
   <a href="https://github.com/DanAzevedo">
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,8 +15,8 @@
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />                     
+  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <i class="devicon-flask-original"></i>                           
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
