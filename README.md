@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel! 👋
 
 
-- 🔭 Today I work with RPA in Python using Selenium, Computer Vision with OpenCV, Tesseract and others. (Internship) 🖥️
+- 🔭 Today I work with RPA in Python using Selenium, Django, Flask, etc. (Internship) 🖥️
 
 <div>
   <a href="https://github.com/DanAzevedo">
