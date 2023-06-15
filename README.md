@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel! 👋
 
 
-- 🔭 Today I work with RPA in Python using Selenium, Django, Flask, etc. (Internship) 🖥️
+- 🔭 RPA, Django, Flask, etc. (Internship) 🖥️
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
