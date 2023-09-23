@@ -28,9 +28,6 @@
    <a href="https://www.facebook.com/danazevedo27/" targe="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
    <a href="https://wa.me/5532991542187" targe="_blank"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   <a href="discordapp.com/users/471735734693265409" targe="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/DanAzevedo/DanAzevedo/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 <br><br>
 
