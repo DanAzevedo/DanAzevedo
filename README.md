@@ -3,11 +3,11 @@
 
 - 🔭 RPA, Django, Flask, etc. (Internship) 🖥️
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<div>
+ <div>
    <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">       
-</div>
+</div> 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div>
   <a href="https://github.com/DanAzevedo">
