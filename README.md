@@ -4,6 +4,10 @@
 - 🔭 RPA, Django, Flask, etc. (Internship) 🖥️
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<div>
+   <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">       
+</div>
           
 <div>
   <a href="https://github.com/DanAzevedo">
@@ -11,8 +15,6 @@
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20&theme=dark"/>
   </a>
 </div>
-
-<img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
