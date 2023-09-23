@@ -4,12 +4,6 @@
 - 🔭 RPA, Django, Flask, etc. (Internship) 🖥️
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-
- <div>
-   <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">       
-</div> 
-<br><br>
           
 <div>
   <a href="https://github.com/DanAzevedo">
