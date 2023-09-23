@@ -9,7 +9,8 @@
   <a href="https://github.com/DanAzevedo">
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=compact&langs_count=16&theme=dark"/> 
-  <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=donut-vertical&langs_count=16&theme=dark"/> 
+  <img height=180 width=420 src=" [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanAzevedo)](https://github.com/anuraghazra/github-readme-stats)"&langs_count=16&theme=dark"/> 
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
