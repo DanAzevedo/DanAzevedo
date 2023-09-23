@@ -9,7 +9,7 @@
  <div>
    <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">       
 </div> 
-<br>
+<br><br>
           
 <div>
   <a href="https://github.com/DanAzevedo">
