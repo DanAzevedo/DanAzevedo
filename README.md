@@ -9,14 +9,8 @@
   <a href="https://github.com/DanAzevedo">
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=280 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=donut-vertical&theme=dark"/>  
-
-  <a href="https://github.com/DanAzevedo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanAzevedo" />
-</a>
-<a href="https://github.com/DanAzevedo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAzevedo&layout=compact&langs_count=8&card_width=320" />
-</a>
-  
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
