@@ -15,6 +15,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />        
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Tech" height="30" width="40" src="https://img.icons8.com/nolan/64/flask.png" />             
   <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
