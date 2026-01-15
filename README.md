@@ -2,20 +2,26 @@
 
 <div align="center">
   
-  <!-- COMBO MAIS INFORMATIVO: Duas imagens lado a lado -->
+  <!-- COMBO COMPLETO: Mostra TODAS as linguagens -->
   <div>
-    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark&exclude=html,css" alt="Linguagens por Repositório" />
-    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanAzevedo&theme=github_dark&exclude=html,css" alt="Linguagens Mais Usadas" />
+    <!-- Versão que mostra MAIS linguagens -->
+    <img height=190 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark&langs_count=20" alt="Linguagens por Repositório (Todas)" />
+    <img height=190 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanAzevedo&theme=github_dark&langs_count=20" alt="Linguagens Mais Usadas (Todas)" />
   </div>
 
-  <!-- Estatísticas Gerais -->
+  <!-- ESTATÍSTICAS GERAIS -->
   <div>
     <a href="https://github.com/DanAzevedo">
-      <img height=180 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+      <img height=180 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars" alt="Estatísticas do GitHub" />
     </a>
   </div>
 
-  <!-- Ícones das Tecnologias -->
+  <!-- SE PREFERIR COM PORCENTAGENS MAIS VISÍVEIS -->
+  <!-- <div>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&hide=html,css" alt="Linguagens em Pizza" />
+  </div> -->
+
+  <!-- ÍCONES DAS TECNOLOGIAS -->
   <br>
   <div style="display: inline_block">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -30,7 +36,7 @@
     <img align="center" alt="Azure SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />          
   </div>
 
-  <!-- Links de Contato -->
+  <!-- LINKS DE CONTATO -->
   <br><br>
   <div>
     <a href="https://www.instagram.com/dan_az32/" target="_blank">
