@@ -42,7 +42,5 @@ Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente An
     <img align="center" alt="Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" />     
     <img align="center" alt="Azure SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />          
   </div>
-
-
   
 </div>
