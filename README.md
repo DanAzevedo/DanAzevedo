@@ -45,7 +45,7 @@ Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente An
     <a href="https://www.instagram.com/dan_az32/" target="_blank">
       <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a> 
-    <a href="https://www.linkedin.com/in/dan-azevedo-b5802b201/" target="_blank">
+    <a href="[https://www.linkedin.com/in/dan-azevedo-b5802b201/](https://www.linkedin.com/in/dan-az32/)" target="_blank">
       <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/danazevedo27/" target="_blank">
