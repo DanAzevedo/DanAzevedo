@@ -9,7 +9,7 @@ Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente An
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
   <!-- LINKS DE CONTATO -->
-  <br><br>
+
   <div>
     <a href="https://www.instagram.com/dan_az32/" target="_blank">
       <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
