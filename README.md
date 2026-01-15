@@ -8,13 +8,13 @@ Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente An
 
 <div align="center">
   
-  <!-- SEÇÃO DE ESTATÍSTICAS -->
+  <!-- SEÇÃO DE ESTATÍSTICAS - VERSÃO ATUALIZADA -->
   <div>
-    <!-- Estatística 1: Linguagens com % -->
-    <img height=190 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark&langs_count=15" alt="Linguagens por Repositório" />
+    <!-- Estatística 1: Linguagens com % (CORRIGIDO para HTTPS) -->
+    <img height=190 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark&langs_count=10" alt="Linguagens por Repositório" />
     
-    <!-- Estatística 2: Streak Stats -->
-    <img height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=DanAzevedo&theme=dark&hide_border=true&locale=pt-br" alt="Sequência de Contribuições" />
+    <!-- Estatística 2: Streak Stats (ALTERNATIVA FUNCIONAL) -->
+    <img height=190 src="https://streak-stats.demolab.com/?user=DanAzevedo&theme=dark&hide_border=true&locale=pt-br" alt="Sequência de Contribuições" />
   </div>
 
   <!-- ESTATÍSTICAS GERAIS (opcional) -->
