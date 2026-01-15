@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🤖 Daniel Azevedo
 
 **`Desenvolvedor FullStack`**
@@ -5,8 +7,6 @@
 Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente Antônio Carlos).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<div align="center">
 
   <!-- LINKS DE CONTATO -->
   <br><br>
@@ -28,22 +28,6 @@ Sou graduado em Ciência da Computação pela UNIPAC (Universidade Presidente An
     </a>
   </div>
   
-  <!-- SEÇÃO DE ESTATÍSTICAS - VERSÃO ATUALIZADA -->
-  <div>
-    <!-- Estatística 1: Linguagens com % (CORRIGIDO para HTTPS) -->
-    <img height=190 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark&langs_count=10" alt="Linguagens por Repositório" />
-    
-    <!-- Estatística 2: Streak Stats (ALTERNATIVA FUNCIONAL) -->
-    <img height=190 src="https://streak-stats.demolab.com/?user=DanAzevedo&theme=dark&hide_border=true&locale=pt-br" alt="Sequência de Contribuições" />
-  </div>
-
-  <!-- ESTATÍSTICAS GERAIS (opcional) -->
-  <div>
-    <a href="https://github.com/DanAzevedo">
-      <img height=180 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&locale=pt" alt="Estatísticas Gerais" />
-    </a>
-  </div>
-
   <!-- ÍCONES DAS TECNOLOGIAS -->
   <br>
   <div style="display: inline_block">
