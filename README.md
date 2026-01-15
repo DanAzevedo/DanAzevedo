@@ -1,2 +1,4 @@
 # 🤖 Daniel Azevedo
 
+**`Desenvolvedor FullStack`**
+
