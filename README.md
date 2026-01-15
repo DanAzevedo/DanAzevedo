@@ -3,7 +3,8 @@
           
 <div>
   <a href="https://github.com/DanAzevedo">
-  <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=DanAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=180 width=420 src="![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanAzevedo&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanAzevedo&theme=github_dark)"/>
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAzevedo&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20&theme=dark"/>
   </a>
 </div>
